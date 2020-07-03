@@ -1,0 +1,2 @@
+E:\Desktop\RayTracing-TheNextWeek-master\ALight\bin\Debug\ALight.exe
+E:\Desktop\RayTracing-TheNextWeek-master\ALight\bin\Debug\AcDx.dll
